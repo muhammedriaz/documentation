@@ -10,6 +10,7 @@ doc_link: https://docs.datadoghq.com/integrations/iam_access_analyser/
 git_integration_title: amazon_iam_access_analyser
 has_logo: true
 integration_title: AWS Identity and Access Management (IAM) Access Analyzer
+integration_title_short: AWS IAM Access Analyzer
 is_public: true
 dependencies:
     ['https://github.com/DataDog/documentation/blob/master/content/en/integrations/iam_access_analyzer.md']
