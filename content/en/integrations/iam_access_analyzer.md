@@ -5,7 +5,7 @@ categories:
     - log collection
     - security
 description:
-short_description:
+short_description: Continuously analyze IAM permissions granted with any of your account policies.
 doc_link: https://docs.datadoghq.com/integrations/iam_access_analyser/
 git_integration_title: amazon_iam_access_analyser
 has_logo: true
